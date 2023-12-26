@@ -1,0 +1,23 @@
+[
+    {
+        "title": "parallax website",
+        "imageSrc": "projects/parallax.PNG",
+        "description": "This is a HTML, CSS mini Project made to learn the parallax scrolling effect.",
+        "skills": ["HTML","CSS"],
+        "source": "https://github.com/BhagyashreeThakur/parallaxWebsite"
+    },
+    {
+        "title": "Rock paper scissors",
+        "imageSrc": "projects/RPS.PNG",
+        "description": "Choose one of the three choices and see if you can beat the computer.",
+        "skills": ["HTML","CSS","JS"],
+        "source": "https://github.com/BhagyashreeThakur/rockPaperScissors"
+    },
+    {
+        "title": "Landing Page ",
+        "imageSrc": "projects/project.png",
+        "description": "This is a First Animated Landing page using HTML CSS and Javascript",
+        "skills": ["HTML","CSS","JS"],
+        "source": "https://github.com/BhagyashreeThakur/landing-page"
+    }
+]
